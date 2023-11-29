@@ -6,6 +6,6 @@ Meu nome é Mariana
 - Estou me desenvolvendo na minha linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Você pode entrar em contato comigo
+Você pode entrar em contato comigo:
 
 mariana.gino.castilho@escola.pr.gov.br
